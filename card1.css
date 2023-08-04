@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.card{
+    width: 20%;
+    background-color: grey;
+    position: relative;
+    left: 500px;
+    top: 100px;
+}
+
+.image img{
+    width: 100%;
+}
+
+.title{
+    text-align: center;
+}
+
+.des{
+    text-align: center;
+    position: relative;
+    top: 10px;
+}
+button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: crimson;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 20px;
+    cursor: pointer;
+}
